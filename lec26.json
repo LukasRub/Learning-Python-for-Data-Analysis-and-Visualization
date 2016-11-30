@@ -1,0 +1,13 @@
+{
+  "zoo_animal": "Lion",
+  "food": ["Meat","Veggies","Honey"],
+  "fur": "Golden",
+  "cloth": null,
+  "diet": [
+    {
+      "zoo_animal": "Gazelle",
+      "food": ["Grass"],
+      "fur": "Brown"
+    }
+  ]
+}
